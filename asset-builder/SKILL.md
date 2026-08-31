@@ -196,7 +196,7 @@ Apply the correct structure based on the format selected.
 4. What to watch out for / common mistakes
 5. What to do next
 
-**Volume:** 2–5 pages.
+**Volume:** 2–3 pages.
 
 **What to extract from the article:**
 - The methodology or process at the core of the article

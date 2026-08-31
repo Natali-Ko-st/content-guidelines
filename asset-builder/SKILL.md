@@ -1,6 +1,6 @@
 ---
 name: asset-builder
-description: Use this skill whenever a content author has a finished article draft and wants to create a downloadable asset from it. Triggers include: "зроби чекліст до статті", "який асет підходить для цього матеріалу", "допоможи зробити гайд", "що з цієї статті зробити асетом", "create a checklist from this article", "help me make a downloadable asset", "what format works for this article", or any request to extract, structure, or adapt article content into a standalone downloadable asset. Always use this skill when an author provides a draft and asks about a downloadable — even if they don't say "skill".
+description: 'Use this skill whenever a content author has a finished article draft and wants to create a downloadable asset from it. Triggers include: "зроби чекліст до статті", "який асет підходить для цього матеріалу", "допоможи зробити гайд", "що з цієї статті зробити асетом", "create a checklist from this article", "help me make a downloadable asset", "what format works for this article", or any request to extract, structure, or adapt article content into a standalone downloadable asset. Always use this skill when an author provides a draft and asks about a downloadable — even if they do not say "skill".'
 ---
 
 # Asset Builder Skill — Stripo Content Team

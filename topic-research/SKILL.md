@@ -1,6 +1,6 @@
 ---
 name: content-research
-description: 'Use this skill whenever a content author needs to research a topic before writing. Triggers include: "допоможи дослідити тему", "зроби ресерч", "research this topic", "what are competitors writing about X", "help me prepare to write about X", "що пишуть про X", or any request to analyze a topic before writing an article. Always use this skill when an author provides a topic and wants competitive analysis, gap analysis, or content research to prepare for writing — even if they don't say "skill" or "research". This skill requires web search — use it extensively.'
+description: 'Use this skill whenever a content author needs to research a topic before writing. Triggers include: "допоможи дослідити тему", "зроби ресерч", "research this topic", "what are competitors writing about X", "help me prepare to write about X", "що пишуть про X", or any request to analyze a topic before writing an article. Always use this skill when an author provides a topic and wants competitive analysis, gap analysis, or content research to prepare for writing — even if they do not say "skill" or "research". This skill requires web search — use it extensively.'
 ---
 
 # Content Research Skill — Stripo Content Team

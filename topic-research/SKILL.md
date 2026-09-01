@@ -141,7 +141,7 @@ Based on all research above, give specific recommendations for how the Stripo ar
 Think about:
 - Which gaps from Step 4 can Stripo credibly fill?
 - Where can Stripo add a product angle that competitors can't? (specific features, use cases, real examples from the platform)
-- Is there a unique narrative from [03-narratives.md](03-narratives.md) that fits this topic naturally?
+- Is there a unique narrative from [03-narratives.md](../03-narratives.md) that fits this topic naturally?
 - What format or structure would make this article more useful than what's already out there?
 - Are there Stripo customer examples, platform data, or feature-specific tips that no competitor can replicate?
 - Where do competitors overclaim or use beginner-recap framing that Stripo can position against with more precise editorial voice?

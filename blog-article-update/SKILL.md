@@ -1,6 +1,6 @@
 ---
 name: blog-update
-description: 'Use this skill whenever the user wants to update, refresh, or rewrite a Stripo blog article for SEO. Triggers include: uploading an old blog post for updating, providing SEO keywords or briefs for a blog article, asking to "refresh" or "update" content, mentioning TOV/guidelines/glossary alongside a blog text, or any task involving updating existing blog content. Always use this skill when a user pastes or uploads a blog article and asks to improve, update, or optimize it — even if they don't explicitly say "skill".'
+description: 'Use this skill whenever the user wants to update, refresh, or rewrite a Stripo blog article for SEO. Triggers include: uploading an old blog post for updating, providing SEO keywords or briefs for a blog article, asking to "refresh" or "update" content, mentioning TOV/guidelines/glossary alongside a blog text, or any task involving updating existing blog content. Always use this skill when a user pastes or uploads a blog article and asks to improve, update, or optimize it — even if they do not explicitly say "skill".'
 ---
 
 # Blog Article Update Skill v2 — Stripo Content Team
